@@ -1,6 +1,4 @@
 # Public-calculator-tool paste the following code into one compiler in HTML format
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
